@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+# The OpenAI client is used against Groq's OpenAI-compatible endpoint (no `groq` package needed)
+openai>=2.0.0
